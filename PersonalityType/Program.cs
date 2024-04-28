@@ -11,7 +11,7 @@ namespace PersonalityType
 {
     class Program
     {
-        // Test test 
+        // Test2
         static void Main(string[] args)
         {
             float[] answerArray = new float[60];
